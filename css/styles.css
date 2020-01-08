@@ -10,6 +10,7 @@ body {
 .best {
   color: green;
   font-weight: 700;
+  font-size: 2em;
 }
 
 img {
